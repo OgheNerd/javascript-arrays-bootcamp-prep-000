@@ -28,4 +28,4 @@ accessElementInArray();
 function destructivelyRemoveElementFromBeginningOfArray(array) {
   array.shift();
 }
-destructivelyRemoveElementFromBeginningOfArray(array)
+destructivelyRemoveElementFromBeginningOfArray(array);
